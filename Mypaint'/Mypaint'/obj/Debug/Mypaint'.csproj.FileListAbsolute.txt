@@ -8,3 +8,13 @@ G:\Lập trình trực quan\Solution\others\Mypaint'\Mypaint'\bin\Debug\Mypaint'
 G:\Lập trình trực quan\Solution\others\Mypaint'\Mypaint'\bin\Debug\Mypaint'.pdb
 G:\Lập trình trực quan\Solution\others\Mypaint'\Mypaint'\obj\Debug\Mypaint'.exe
 G:\Lập trình trực quan\Solution\others\Mypaint'\Mypaint'\obj\Debug\Mypaint'.pdb
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\bin\Debug\Mypaint'.exe.config
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\bin\Debug\Mypaint'.exe
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\bin\Debug\Mypaint'.pdb
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint'.csprojAssemblyReference.cache
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint_.Form1.resources
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint_.Properties.Resources.resources
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint'.csproj.GenerateResource.cache
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint'.csproj.CoreCompileInputs.cache
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint'.exe
+G:\tài liệu c\MyPaint\Mypaint'\Mypaint'\obj\Debug\Mypaint'.pdb
